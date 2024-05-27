@@ -13,6 +13,8 @@ public:
 		cout << "Hallo saya Function dari derived class";
 	}
 };
-int main() {}
+int main() {
+	derived class a;
+}
 
 
