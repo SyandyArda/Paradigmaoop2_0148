@@ -9,6 +9,12 @@ public:
 	*/
 };
 
-class
+class joko :public seseorang {
+public:
+	void pesan() {
+		cout << "Pesan dari joko" << endl;
+	}
+};
 
+class lia
 
