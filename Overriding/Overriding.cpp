@@ -14,7 +14,8 @@ public:
 	}
 };
 int main() {
-	derived class a;
+	derivedClass a;
+	a.perkenalan();
 }
 
 
